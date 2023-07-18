@@ -1,0 +1,131 @@
+body {
+margin: none;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.flex-container1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+  }
+
+  .flex-container1>div {
+    margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  }
+  .flex3 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #f3f9fa;
+    align-items: left;
+    
+  }
+  .flex4{
+  
+    justify-content: center;
+   
+    display: flex;
+  }
+  .flex4 > div {
+    background-color: #f3f9fa;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  
+  .title{
+    color: black;
+    font-size: 20px;
+    
+  }
+  .button{
+    text-align: center;
+    background-color: white;
+    font-size: 15px;
+    border: none;
+    padding:20px;
+  }
+  .your{
+    display: inline-block;
+    
+  }
+  .rcorners1 {
+    border-radius: 25px;
+    background: skyblue;
+    padding: 20px; 
+    width: 400px;
+    height: 70px; font-size: 20px;
+    border-bottom: dashed;
+    border-width: 1px;
+    
+  }
+  .rcorners2 {
+    border-radius: 25px;
+    background: skyblue;
+    padding: 20px; 
+    width: 400px;
+    height: 150px;
+  }
+  .default {
+    
+    font-size: 15px;
+    border-width: 1px;
+    border-color: grey;
+    line-height: 4px;
+   }
+   .port{
+    text-align: center;
+     background-color:#f3f9fa;
+     padding: 10px 30px 10px 40px;
+     font-size: 15px;
+    border-width: 1px;
+    border-color: grey;
+    background: none;
+   }
+   .six{
+    text-align: left;
+    font-size: 15px;
+   }
+   .gray{
+    color: grey;
+    font-size: 40px;
+   }
+   .subhead{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+   }
+   .read{
+    color: navy;
+    font-size: 15px;
+    font-weight: bold;
+   }
+   .shead{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+   }
+   .content{
+    font-size: 15px;
+   }
+   .truckload{
+    font-size: 50px;
+    font-family: bold;
+   }
+   .read{
+    background-color:#248795;
+    padding:10px 30px 10px 30px;
+    color:white;
+    border-radius: 4px;
+    font-size: 15px;
+    border: none;
+   }
+   
+  
