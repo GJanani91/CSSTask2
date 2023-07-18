@@ -119,13 +119,18 @@ margin: none;
     font-size: 50px;
     font-family: bold;
    }
-   .read{
+   .read1{
     background-color:#248795;
     padding:10px 30px 10px 30px;
     color:white;
     border-radius: 4px;
     font-size: 15px;
     border: none;
+   }
+   .box
+   {
+    font-size: 20px;
+    font-weight: bold;"
    }
    
   
