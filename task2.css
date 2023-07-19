@@ -130,7 +130,17 @@ margin: none;
    .box
    {
     font-size: 20px;
-    font-weight: bold;"
+    font-weight: bold;
    }
+   ul.b {
+    list-style-type: none;
+    font-size: 20px;
+
+  }
+  .last{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
    
   
